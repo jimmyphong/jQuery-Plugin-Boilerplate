@@ -30,7 +30,7 @@
          */
         _init: function() {
             // code
-        }
+        },
 
         publicMethodName: function() {
             // code
